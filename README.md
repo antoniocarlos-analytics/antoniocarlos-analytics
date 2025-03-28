@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Olá, sou Antonio Carlos!
 
-<!--
-**antoniocarlos-analytics/antoniocarlos-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Analista de Dados | Transformando Dados em Decisões Estratégicas**
 
-Here are some ideas to get you started:
+Sempre fui fascinado por números, padrões e a arte de transformar dados brutos em insights valiosos. Minha missão é utilizar a análise de dados para otimizar processos, reduzir incertezas e gerar impacto estratégico nas decisões empresariais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **Habilidades & Ferramentas:**
+- **Linguagens & Bancos de Dados:** SQL, R
+- **Ferramentas de Visualização:** Tableau, Google Sheets, Excel, Power BI
+- **Técnicas Analíticas:** Limpeza, modelagem e exploração de dados
+- **Soft Skills:** Resolução de problemas, pensamento crítico e comunicação
+
+🎓 **Formação:**
+- Cursando Administração na Uninter
+- Formação em Análise de Dados pelo Google Data Analytics Professional Certificate
+
+📌 **Onde me encontrar:**
+- 🔗 [Kaggle](https://www.kaggle.com/antoniocarlosds)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/antoniocarlosds)
+
+🚀 **Estou sempre aberto a novas oportunidades e desafios na área de Análise de Dados!**
